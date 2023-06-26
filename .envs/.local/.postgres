@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=simple_product_catalog
+POSTGRES_USER=KmyTPKPyYkmCmSokPFgpjyJgREycJdun
+POSTGRES_PASSWORD=0Cr3n18kilFQ35g03LDoOPgzHwuSWH3tN1WSqROURTuJNubPWvpseP37f1kpcqS9
