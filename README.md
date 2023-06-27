@@ -15,3 +15,5 @@ License: GPLv3
 ### Instrucciones
 
 Proyecto construido sobre cookiecutter. Detalles para correr servidor local: [cookiecutter-django documentation](http://cookiecutter-django.readthedocs.io/en/latest/deployment-with-docker.html).
+
+Documentacion disponbile con Sphinx y Swagger
