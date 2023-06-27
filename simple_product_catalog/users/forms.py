@@ -27,7 +27,7 @@ class UserAdminCreationForm(admin_forms.UserCreationForm):
 
 class UserSignupForm(SignupForm):
     """
-    Form that will be rendered on a user sign up section/screen.
+    Form that will be rendered on a user regsitration screen.
     Default fields will be added automatically.
     Check UserSocialSignupForm for accounts created from social.
     """
